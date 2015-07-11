@@ -1,4 +1,6 @@
-/* Important Note : This java solution takes around 2 sec which is not acceptable so same algorithm when coded in c language gets accepted
+/* Important Note : This java solution takes around 2 sec which is not
+
+acceptable so same algorithm when coded in c language gets accepted
 
 for this question java is really handicapped on hackers earth */
 
