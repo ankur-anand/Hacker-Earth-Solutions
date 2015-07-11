@@ -1,5 +1,3 @@
-/* time 2.24 sec */
-// Score - 308618
 /**
  * This Solution is bacially generating Generate as many 
  * distinct primes P such that reverse (P) is also prime and is not equal to P.
