@@ -1,12 +1,15 @@
 /* Time (sec)
 1.4937 */
+package hackerEarth;
+import java.io.BufferedReader;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
  
-class TestClass {
+class SmallFactorials {
     public static void main(String args[] ) throws Exception {
         BufferedReader keyboard=new BufferedReader(new InputStreamReader(System.in));
 		int n=Integer.parseInt(keyboard.readLine());

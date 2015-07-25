@@ -1,11 +1,12 @@
 /* time 1.0955 sec */ 
 
+package hackerEarth;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
  
  
-class TestClass {
+class PalindromicNumber {
 	
 	private static final int BASE = 0xa;
 	private static boolean[] arePalindrome = generatePalindrome();
