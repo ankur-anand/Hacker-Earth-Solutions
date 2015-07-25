@@ -2,9 +2,10 @@
  * This Solution is bacially generating Generate as many 
  * distinct primes P such that reverse (P) is also prime and is not equal to P.
  * */
+package hackerEarth;
 import java.util.Arrays;
  
-class TestClass {
+public class ReversePrimes {
     
     final static int MAX = 100000000;
     final static long MAXLISTSIZE = 1000000;
